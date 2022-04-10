@@ -1,5 +1,6 @@
 # wind_div_rot
-Wind, wind-mass relation, divergence, vorticity
+
+Illustrate the wind-mass relation, compute the geostrophic wind and the divergence and vorticity fields from NCEP reanalysis
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
