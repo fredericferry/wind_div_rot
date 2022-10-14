@@ -2,6 +2,8 @@
 
 Illustrate the wind-mass relation, compute the geostrophic wind and the divergence and vorticity fields from NCEP reanalysis
 
+THIS CODE IS NOT FUNCTIONNAL YOU WILL HAVE TO CODE THE MISSING PARTS (THIS SHOULD NOT BE TOO DIFFICULT).
+
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
